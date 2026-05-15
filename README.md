@@ -19,4 +19,4 @@ Este proyecto puede servir como base para implementar **sistemas de gestión, pa
 - FontAwesome
 
 **🔗 Accede al diseño de panel administrativo en línea:**  
-[Ver diseño de login en línea](https://maycolcruzfern.github.io/administrative-panel-one/)
+[Ver diseño de login en línea](https://maycolcruzfern.github.io/web-administrative-panel-one/)
